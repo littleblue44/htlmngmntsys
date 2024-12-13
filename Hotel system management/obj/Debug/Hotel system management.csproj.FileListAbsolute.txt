@@ -1,0 +1,18 @@
+C:\Users\quint\OneDrive\Desktop\Coding Projects\Hotel system management\bin\Debug\Hotel system management.exe.config
+C:\Users\quint\OneDrive\Desktop\Coding Projects\Hotel system management\bin\Debug\Hotel system management.exe
+C:\Users\quint\OneDrive\Desktop\Coding Projects\Hotel system management\bin\Debug\Hotel system management.pdb
+C:\Users\quint\OneDrive\Desktop\Coding Projects\Hotel system management\bin\Debug\Guna.UI2.dll
+C:\Users\quint\OneDrive\Desktop\Coding Projects\Hotel system management\obj\Debug\Hotel system management.csproj.AssemblyReference.cache
+C:\Users\quint\OneDrive\Desktop\Coding Projects\Hotel system management\obj\Debug\Hotel_system_management.All_User_Control.CustomerDetails.resources
+C:\Users\quint\OneDrive\Desktop\Coding Projects\Hotel system management\obj\Debug\Hotel_system_management.All_User_Control.UC_AddRoom.resources
+C:\Users\quint\OneDrive\Desktop\Coding Projects\Hotel system management\obj\Debug\Hotel_system_management.All_User_Control.UC_CustomerCheckOut.resources
+C:\Users\quint\OneDrive\Desktop\Coding Projects\Hotel system management\obj\Debug\Hotel_system_management.All_User_Control.UC_CustomerRegistration.resources
+C:\Users\quint\OneDrive\Desktop\Coding Projects\Hotel system management\obj\Debug\Hotel_system_management.All_User_Control.UC_Employee.resources
+C:\Users\quint\OneDrive\Desktop\Coding Projects\Hotel system management\obj\Debug\Hotel_system_management.Dashboard.resources
+C:\Users\quint\OneDrive\Desktop\Coding Projects\Hotel system management\obj\Debug\Hotel_system_management.Form1.resources
+C:\Users\quint\OneDrive\Desktop\Coding Projects\Hotel system management\obj\Debug\Hotel_system_management.Properties.Resources.resources
+C:\Users\quint\OneDrive\Desktop\Coding Projects\Hotel system management\obj\Debug\Hotel system management.csproj.GenerateResource.cache
+C:\Users\quint\OneDrive\Desktop\Coding Projects\Hotel system management\obj\Debug\Hotel system management.csproj.CoreCompileInputs.cache
+C:\Users\quint\OneDrive\Desktop\Coding Projects\Hotel system management\obj\Debug\Hotel sy.ADFFDDB0.Up2Date
+C:\Users\quint\OneDrive\Desktop\Coding Projects\Hotel system management\obj\Debug\Hotel system management.exe
+C:\Users\quint\OneDrive\Desktop\Coding Projects\Hotel system management\obj\Debug\Hotel system management.pdb
